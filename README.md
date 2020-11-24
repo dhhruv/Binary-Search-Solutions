@@ -5,7 +5,7 @@ Here are some of my solutions from the website https://binarysearch.com/ develop
 Profile Name: lasa73
 Profile Link: https://binarysearch.com/@/lasa73
 
-## Soultions added for problems:
+## Solutions added for problems:
 
 1. Accumulator Battery
 2. Base 3 to Integer
