@@ -2,8 +2,8 @@
 
 Here are some of my solutions from the website https://binarysearch.com/ developed in Python Programming language.
 
-Profile Name: lasa73
-Profile Link: https://binarysearch.com/@/lasa73
+-	Profile Name: lasa73
+-	Profile Link: https://binarysearch.com/@/lasa73
 
 ## Solutions added for problems:
 
