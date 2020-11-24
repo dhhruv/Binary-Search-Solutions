@@ -1,3 +1,7 @@
+"""
+Intuition
+First of all we sort according to the end time of intervals and then one by one check whether overlapping is happening and accordingly return the count.
+"""
 class Solution:
     def solve(self, intervals):
         ct = 0

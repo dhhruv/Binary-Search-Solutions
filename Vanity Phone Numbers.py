@@ -1,3 +1,7 @@
+"""
+Intuition
+Here we go through the traditional iterative method of one by one traversing through the string and adding the elements of the dictionary likewise in the new list.
+"""
 class Solution:
     def solve(self, digits):
         d = {

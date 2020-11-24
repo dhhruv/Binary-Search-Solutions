@@ -1,3 +1,12 @@
+"""
+Intuition
+Here, there are 3 cases and we find the maximum output from the cases and return that.
+
+First is the length of the leftover string s after string t has occurred from the front.
+Then the length of the string s after string t has occurred from the end.
+At last, the in-between length between two consecutive alphabets where one index occurs from left and another index occurs from right.
+Maximum of any of the three cases is returned.
+"""
 class Solution:
     def solve(self, s, t):
         l = []

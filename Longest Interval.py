@@ -1,3 +1,7 @@
+"""
+Intuition
+Here, first of all we merge all the lists that have common in a union and then we check the maximum range for the intervals from the new list.
+"""
 class Solution:
     def solve(self, intervals):
         intervals.sort()

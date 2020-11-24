@@ -1,3 +1,7 @@
+"""
+Intuition
+If any of the [start,end] in cut lies in the list of intervals then we carve and append the new interval in a list and return it.
+"""
 class Solution:
     def solve(self, intervals, cut):
         ls = []

@@ -1,3 +1,7 @@
+"""
+Intuition
+First of all we add all the possible sum of the lists in a new list and then return the maximum common sum of elements found in all the stacks using functools.
+"""
 class Solution:
     def solve(self, stacks):
         if len(stacks) == 0:

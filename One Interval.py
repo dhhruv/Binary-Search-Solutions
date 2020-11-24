@@ -1,3 +1,7 @@
+"""
+Intuition
+First of all we merge the intervals which overlap with each other. Then return the difference of (start of the last element) and (end of the first element).
+"""
 class Solution:
     def solve(self, intervals):
         if len(intervals) == 1:

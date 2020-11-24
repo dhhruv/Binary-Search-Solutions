@@ -1,3 +1,7 @@
+"""
+Intuition
+Return the sum of all positive differences for count of alphabets from String t in String s.
+"""
 class Solution:
     def solve(self, s, t):
         c1 = Counter(s)
